@@ -43,7 +43,7 @@ API-For-Your-LLM/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-agent-api.git
+git clone https://github.com/singhdiya007/ai-agent-api.git
 cd ai-agent-api
 ```
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```
-API_KEY=riya123
+API_KEY=RadhaRani12
 ```
 
 ---
@@ -157,21 +157,3 @@ Content-Type: application/json
 * 🔹 Frontend UI (React / Next.js)
 * 🔹 Deployment on cloud (AWS / Render)
 
----
-
-## 👩‍💻 Author
-
-**Riya Singh**
-B.Tech CSE | AI Enthusiast
-
----
-
-## ⭐ Contribute
-
-Feel free to fork, improve, and raise pull requests!
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
